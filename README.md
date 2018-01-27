@@ -8,7 +8,7 @@ Change default audio playback device with one action. Cycles through enabled dev
 - Extract to preferred location.
 - Run AESwitcher to change playback device.
 
-![alt text](https://raw.githubusercontent.com/unagi-dev/AudioEndPointController/master/AESwitcher/AESwitcher.gif "AESwitcher")
+![alt text](https://raw.githubusercontent.com/unagi-dev/audio-endpoint-switcher/master/AESwitcher/AESwitcher.gif "AESwitcher")
 
 
 ### AudioEndpointController
